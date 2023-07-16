@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 - Degree: Master of Astronomy and Atmospheric Sciences
 - Major : Cosmology
-- Master’s dissertation: [ΛLT model solution for Hubble Tension]("https://dcollection.knu.ac.kr/public_resource/pdf/000000096069_20230716183126.pdf")
+- Master’s dissertation: [ΛLT model solution for Hubble Tension](https://github.com/Larshavin/Larshavin/blob/main/paper.pdf)
   (Not attempt to published to journal)
 
 **University of Science & Technology** (2020.02 ~ 2022.04)
