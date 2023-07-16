@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 - Degree: Master of Astronomy and Atmospheric Sciences
 - Major : Cosmology
 - Master’s dissertation: [ΛLT model solution for Hubble Tension](https://github.com/Larshavin/Larshavin/blob/main/paper.pdf)
-  (Not attempt to published to journal)
+  (Choosing not to submit for journal publication)
 
 **University of Science & Technology** (2020.02 ~ 2022.04)
 
