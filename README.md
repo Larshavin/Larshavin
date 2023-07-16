@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 
 - Degree: PhD withdrawal
 - Major: Numerical Relativity
-- Research: Collapsing Black Hole Ray Tracing Simulation Using Numerical General Relativity
+- Research: Collapsing Black's Hole Ray Tracing Simulation Using Numerical General Relativity
 - The place where I realized that playing with :computer: is more enjoyable than researching :star:
 
 ### 2. Career 💼
