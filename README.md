@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 
 - **Cloud Native**
 
-&emsp;&emsp; [![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/ "Go") [![K8S](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white)](https://go.dev/ "K8S") [![OpenStack](https://img.shields.io/badge/OpenStack-ED1944?style=for-the-badge&logo=OpenStack&logoColor=white)](https://www.openstack.org/ "OpenStack")
+&emsp;&emsp; [![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/ "Go") [![K8S](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white)](https://kubernetes.io "K8S") [![OpenStack](https://img.shields.io/badge/OpenStack-ED1944?style=for-the-badge&logo=OpenStack&logoColor=white)](https://www.openstack.org/ "OpenStack")
 
 - **Frontend**
 
