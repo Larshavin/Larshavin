@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ### 0. Contact me 💬
 
-[![Email](https://img.shields.io/badge/gkdlgkdl2040@gmail-E6E6E6?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:gkdlgkdl2040@gmail.com "Email") [![velog](https://img.shields.io/badge/velog-12100E?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@larshavin "Velog")
+[![Email](https://img.shields.io/badge/gkdlgkdl2040@gmail-E6E6E6?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:gkdlgkdl2040@gmail.com "Email") [![velog](https://img.shields.io/badge/velog-12100E?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@larshavin "Velog") [![blog](https://img.shields.io/badge/blog-41454A?style=for-the-badge&logoColor=white)](https://kubesy.com "blog")
 
 ### 1. Education 🎓
 
