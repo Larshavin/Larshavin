@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ### 0. Contact me 💬
 
-[![Email](https://img.shields.io/badge/gkdlgkdl2040@gmail-E6E6E6?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:gkdlgkdl2040@gmail.com "Email") [![velog](https://img.shields.io/badge/velog-12100E?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@larshavin "Velog") [![blog](https://img.shields.io/badge/blog-41454A?style=for-the-badge&logoColor=white)](https://kubesy.com "blog")
+[![Email](https://img.shields.io/badge/gkdlgkdl2040@gmail-E6E6E6?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:gkdlgkdl2040@gmail.com "Email") [![velog](https://img.shields.io/badge/velog-12100E?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@larshavin "Velog") [![blog](https://img.shields.io/badge/blog-41454A?style=for-the-badge&logoColor=white)](https://kubesy.com "blog")[블로그 서버 다운 -> 11월에 복구 예정]
 
 ### 1. Education 🎓
 
@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 
 ### 2. Career 💼
 
-**FORWIZ SYSTEM. Co., Ltd** (2022.05 ~ )
+**FORWIZ SYSTEM. Co., Ltd** (2022.05 ~ 2023.10)
 
 - Technical Research Personnel (until 2025.05) as Military Service Exception
 - Senior Researcher in Research Institute
